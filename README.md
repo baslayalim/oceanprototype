@@ -1,2 +1,1 @@
-# ocean
-Ocean is a General Software Framework
+# ocean-prototype
